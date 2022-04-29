@@ -4,7 +4,7 @@
 
 ### /about:
 
-- 🔭 I’m currently working helping a client with ... data & devops needs
+- 🔭 I’m currently helping a client with ... data & devops needs
 - 🌱 I’m currently exploring ... k8s & Cloud-native ecosystem
 - 👯 I’m looking to collaborate on ... open source projects in healthcare domain
 - 💬 Ask me about ... film-making, music, movies & dope tech
