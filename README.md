@@ -4,14 +4,14 @@
 
 ### /about:
 
-- 🔭 I’m currently helping a client with ... data & devops needs
-- 🌱 I’m currently exploring ... k8s & cloud-native ecosystem
+<!-- - 🔭 I’m currently engineering ... @sprinto
+- 🌱 I’m currently exploring ... k8s & cloud-native ecosystem -->
 - 👯 I’m looking to collaborate on ... open source projects in healthcare domain
 - 💬 Ask me about ... film-making, music, movies & dope tech
-- 📫 How to reach me: ... search jenil777007 on Google
-- ⚡ Fun fact: ... are we living in a simulation?
+<!-- - 📫 How to reach me: ... search jenil777007 on Google
+- ⚡ Fun fact: ... are we living in a simulation? -->
 
-### /skills:
+<!-- ### /skills:
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -21,4 +21,4 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> -->
